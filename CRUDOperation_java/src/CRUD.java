@@ -1,3 +1,7 @@
+//GROUP MEMBERS:
+//CLIFFORD T. VILLENA    SHEM MARDIE BONBON
+//JOHN MICHAEL BUNA      EDRICK GARCIA
+//IAN BRENCES            MARK BRYAN VILLARUEL
 import java.io.*;
 import java.util.Scanner;
 
